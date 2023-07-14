@@ -1,17 +1,28 @@
 # SumoQuote
-QA Challenge Instructions:
-1. For Selenium testing using Java:
-   Please copy the index.html path in config.properties file at amyint.url.
-2. For reporting, Path is : reports/SparkActimePlugin.html. Please navigate to left colum for viewing test data, Assertion errors, Categories and Test Counts
+*  How to run the application using Terminal / cmd:
 
-3. To run the tests, Path is : src/test/java/sumoQuote/ToDoList/TestRunners/BaseTest.java.
-   We can use following tags if we want to narrow the test bed: "@high","@medium","@low"
-   By Default: Tags=""
+1. Please change config.properties > sumoQuote.data.loginId = UNUSED DUMMY EMAIL ID
+   1. Open terminal in the file directory and use command: 
+      1. mvn clean test -Dfilename=CreateUser : For testing 'New user creation' test scenario
+      2. Please manually verify email address
+      3. mvn clean test -Dfilename=Login : For testing 'Login and Setup Dashboard' test scenario
+  2. We can also run the test cases using
+     1. Path: testng_CreateUser_runner.xml > Right click > Run > manually verifying email id,
+      and then Path: xmlRunners/testng_Login_runner.xml > Right Click >Run
+     2. Path : src/test/java/com/sumoQuote/testRunners/SampleTest.java > 
+        1. accountCreationTest > Right click > Run > manually verifying email id
+        2. loginAndSetupTest > Right click > Run
 
-4. Excel file named : TestPlan.xlsx.  
-   for a brief Test Plan on Sheet1 named: Project Details,
-5. For Test Scenarios and Test Cases: Sheet2 named: TestData.
-6. Word file named : QA_Test_Plan
-   for Test Plan.
-7. Branch named "second" in GitHub repository is for backup only
-   Master branch is the latest source code and final submission.
+Important Notes:
+1. Sample reports are stored at Path : reports/
+2. 
+
+
+
+
+
+
+
+
+
+
