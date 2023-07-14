@@ -1,0 +1,52 @@
+[INFO ] 2023-07-14 17:21:25.784 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:21:25.805 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:21:32.305 [TestNG-tests-1] Log - accountCreationTest test is succeed.
+[INFO ] 2023-07-14 17:21:32.309 [TestNG-tests-1] Log - loginAndSetupTest test is starting.
+[INFO ] 2023-07-14 17:22:06.606 [TestNG-tests-1] Log - loginAndSetupTest test is failed.
+[INFO ] 2023-07-14 17:22:06.609 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:24:18.155 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:24:18.178 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:24:25.023 [TestNG-tests-1] Log - accountCreationTest test is succeed.
+[INFO ] 2023-07-14 17:24:25.027 [TestNG-tests-1] Log - loginAndSetupTest test is starting.
+[INFO ] 2023-07-14 17:24:33.962 [TestNG-tests-1] Log - loginAndSetupTest test is skipped.
+[INFO ] 2023-07-14 17:24:33.963 [TestNG-tests-1] Log - loginAndSetupTest test is starting.
+[INFO ] 2023-07-14 17:24:46.564 [TestNG-tests-1] Log - loginAndSetupTest test is failed.
+[INFO ] 2023-07-14 17:24:46.566 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:25:47.302 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:25:47.322 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:26:03.700 [TestNG-tests-1] Log - accountCreationTest test is failed.
+[INFO ] 2023-07-14 17:26:03.703 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:27:01.212 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:27:01.233 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:27:14.658 [TestNG-tests-1] Log - accountCreationTest test is succeed.
+[INFO ] 2023-07-14 17:27:14.662 [TestNG-tests-1] Log - loginAndSetupTest test is starting.
+[INFO ] 2023-07-14 17:28:00.494 [TestNG-tests-1] Log - loginAndSetupTest test is failed.
+[INFO ] 2023-07-14 17:28:00.496 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:36:22.942 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:36:22.960 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:36:29.449 [TestNG-tests-1] Log - accountCreationTest test is succeed.
+[INFO ] 2023-07-14 17:36:29.453 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:37:42.994 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:37:43.012 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:37:49.866 [TestNG-tests-1] Log - accountCreationTest test is succeed.
+[INFO ] 2023-07-14 17:37:49.870 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:38:11.927 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:38:11.945 [TestNG-tests-1] Log - loginAndSetupTest test is starting.
+[INFO ] 2023-07-14 17:38:35.773 [TestNG-tests-1] Log - loginAndSetupTest test is failed.
+[INFO ] 2023-07-14 17:38:35.776 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:41:07.273 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:41:07.290 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:41:13.732 [TestNG-tests-1] Log - accountCreationTest test is succeed.
+[INFO ] 2023-07-14 17:41:13.736 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:41:34.760 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:41:34.777 [TestNG-tests-1] Log - loginAndSetupTest test is starting.
+[INFO ] 2023-07-14 17:42:10.224 [TestNG-tests-1] Log - loginAndSetupTest test is succeed.
+[INFO ] 2023-07-14 17:42:10.228 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:49:26.261 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:49:26.282 [TestNG-tests-1] Log - accountCreationTest test is starting.
+[INFO ] 2023-07-14 17:49:32.728 [TestNG-tests-1] Log - accountCreationTest test is succeed.
+[INFO ] 2023-07-14 17:49:32.732 [TestNG-tests-1] Log - I am in onFinish method s
+[INFO ] 2023-07-14 17:49:55.502 [TestNG-tests-1] Log - I am in onStart method s
+[INFO ] 2023-07-14 17:49:55.523 [TestNG-tests-1] Log - loginAndSetupTest test is starting.
+[INFO ] 2023-07-14 17:50:31.272 [TestNG-tests-1] Log - loginAndSetupTest test is succeed.
+[INFO ] 2023-07-14 17:50:31.276 [TestNG-tests-1] Log - I am in onFinish method s
