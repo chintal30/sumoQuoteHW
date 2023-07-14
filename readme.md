@@ -1,7 +1,7 @@
 # SumoQuote
-<h5>Ways to execute test cases:</h2>
-* Please change "root/config.properties" file's email parameter > sumoQuote.data.loginId = UNUSED DUMMY EMAIL ID for testing
-* Platform Used: Windows OS, Chrome Browser (Prerequisites)
+<h5>Ways to execute test cases:</h5>
+<h4>Please change "root/config.properties" file's email parameter > sumoQuote.data.loginId = UNUSED DUMMY EMAIL ID for testing</h4>
+Platform Used: Windows OS, Chrome Browser (Prerequisites)
 1. Open cmd in the file directory and use command: 
    1. "mvn clean test -Dfilename=CreateUser" : For testing 'New user creation' test scenario
    2. Please manually verify email address
